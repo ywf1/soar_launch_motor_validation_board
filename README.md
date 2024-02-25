@@ -5,7 +5,7 @@ Sensor Inputs:
 -  Load Cell
 -  Pressure Sensor
 
-Load Cell:
+[Load Cell](https://www.tgloadcells.com/products/tjh-4a-pancake-load-cell/):
 -  +10V excitation
 -  20mV @ max Load (1000 N)
 
