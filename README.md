@@ -23,4 +23,8 @@ Board specs:
 Schematic:
 ![image](https://github.com/ywf1/soar_launch_motor_validation_board/assets/115194344/6f9c84cb-89cd-4f3f-a8f6-9200f3c9a9da)
 
+Picture:
+![image](https://github.com/ywf1/soar_launch_motor_validation_board/assets/115194344/e7001239-134d-4a41-9229-d34ac2790c38)
+
+
 
