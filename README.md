@@ -9,7 +9,7 @@ Sensor Inputs:
 -  +10V excitation
 -  20mV @ max Load (1000 N)
 
-Pressure Sensor:
+[Pressure Sensor](https://www.rocketmotorparts.com/details/p1577809_21906261.aspx):
 -  0 - 1600 PSI input
 -  .5V - 4.5V voltage output
 
