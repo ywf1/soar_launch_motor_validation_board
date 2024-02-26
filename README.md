@@ -21,7 +21,7 @@ Board specs:
 -  Accessible GPIO
   
 Schematic:
-![image](https://github.com/ywf1/soar_launch_motor_validation_board/assets/115194344/6f9c84cb-89cd-4f3f-a8f6-9200f3c9a9da)
+![image](https://github.com/ywf1/soar_launch_motor_validation_board/assets/115194344/ea3f6fa7-ea23-4dfd-9221-333ebd4f0312)
 
 Picture:
 ![image](https://github.com/ywf1/soar_launch_motor_validation_board/assets/115194344/154c0009-7201-49b2-97bd-0942dde5032f)
